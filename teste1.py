@@ -1,3 +1,5 @@
+from operator import length_hint
+from matplotlib.backend_bases import LocationEvent
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -46,7 +48,10 @@ navegador.find_element_by_xpath('//*[@id="main-content"]/app-auth/ion-router-out
 
 
 dados_produtos = []
+dados_produtos_df = []
 format_xpath = '//*[@id="main-content"]/app-catalog/ion-content/app-content-wrapper/div/div/div/app-catalog-products/div/div[{numero}]/div/div[1]/img'
+format_xpath_color = '//*[@id="main-content"]/app-catalog-product-view/ion-content/app-content-wrapper/div/div/div/div/div[2]/div[3]/div/cart-product-grade/div/table/tbody/tr[{numero}]/td[1]'
+
 time.sleep(7)
 
 
@@ -70,14 +75,44 @@ for i in range(1):#Range defini a quantidade de produtos, para pegar as informa√
 
 
   site = BeautifulSoup(page_content,'lxml')
+  produto_cod = site.find("div", attrs={'class' : 'code'})
+    
+  time.sleep(3)
+   # cor = navegador.find_element_by_xpath('//*[@id="ProductColorZoomComponent"]/div[2]/app-product-color-zoom/ion-content/div/div/ion-title')
+    
+    
+  table = site.find('table')
 
-  
-  df = pd.read_html(page_content,index_col=0)
-  
+  headers = []
+
+  for i in table.find_all('th'):
+        title = i.text.strip()
+        headers.append(title)
+        
+        df = pd.DataFrame(columns = headers)
+        
+  for row in table.find_all('tr')[1:]:
+        data = row.find_all('td')
+        row_data = [td.text.strip()for td in data]
+        length = len(df)
+        df.loc[length] = row_data
+        df_P = df.iloc[:,1]
+        df_M = df.iloc[:,2]
+        df_G = df.iloc[:,3]
+        df_GG = df.iloc[:,4]
 
 
-print(df[0])
+
+      
 
 
-dados = pd.DataFrame(df,columns={})
-dados.to_csv("teste_concat_table_p.csv",index=False,)
+print(df_P.to_string(index=False))
+print(df_M)
+print(df_G)
+print(df_GG)
+dados = pd.DataFrame(df_P)
+
+dados.to_csv("teste_concat_table_p.csv",index=False,encoding='utf-8')
+
+
+
