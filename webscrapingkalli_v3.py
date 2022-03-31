@@ -54,10 +54,11 @@ navegador.find_element_by_xpath('//*[@id="main-content"]/app-auth/ion-router-out
 
 dados_produtos = []
 format_xpath = '//*[@id="main-content"]/app-catalog/ion-content/app-content-wrapper/div/div/div/app-catalog-products/div/div[{numero}]/div/div[1]/img'
+format_xpath_color = '//*[@id="main-content"]/app-catalog-product-view/ion-content/app-content-wrapper/div/div/div/div/div[2]/div[3]/div/cart-product-grade/div/table/tbody/tr[{numero}]/td[1]'
 time.sleep(7)
 
 
-for i in range(360):#Range defini a quantidade de produtos, para pegar as informações.
+for i in range(2):#Range defini a quantidade de produtos, para pegar as informações.
     
   
   i += 1
@@ -80,19 +81,19 @@ for i in range(360):#Range defini a quantidade de produtos, para pegar as inform
   
 
   
-  
+  #Pegando informações para as colunas
   try:
     print(xpath)
     produto_preco = site.find("div", attrs={'class' : 'prices'})
     produto_cod = site.find("div", attrs={'class' : 'code'})
     produto_descricao = site.find("div", attrs={'class' : 'description'})
     produto_composição = site.find("div", attrs={'class' : 'composition'})
-    produto_fotox = site.find("img", attrs={'class' : 'multipleImg'})#inserir na versão final
-    produto_foto = produto_fotox['src']#inserir na versão final
+    produto_fotox = site.find("img", attrs={'class' : 'multipleImg'})
+    produto_foto = produto_fotox['src']
     produto_tamanhos = site.find("div", attrs={'class' : 'table-container'})
     corlista = []
   
-  
+    #Loop para pegar cores do produto
     for index in range(30):
       
       try:
@@ -135,7 +136,6 @@ for i in range(360):#Range defini a quantidade de produtos, para pegar as inform
       
       
       
-# navegador.find_element_by_xpath('//*[@id="main-content"]/app-catalog-product-view/ion-content/app-content-wrapper/div/div/div/div/div[2]')
 
   navegador.back()
   
@@ -148,7 +148,7 @@ for i in range(360):#Range defini a quantidade de produtos, para pegar as inform
   
 #Inseri colunas e salva dados no csv
 dados = pd.DataFrame(dados_produtos ,columns=['Codigo','Preço','Descrição','Composição','Link','Cor','P','M','G','GG'])
-dados.to_csv("produtoskalli_kalli.csv")
+dados.to_csv("produtoskalli_kalli_teste1.csv")
 print(dados_produtos)
 
 
