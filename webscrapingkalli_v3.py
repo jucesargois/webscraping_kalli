@@ -30,7 +30,7 @@ inputLoginCatalogo = navegador.find_element_by_class_name('native-input.sc-ion-i
 time.sleep(0.1)
 
 #Escreve o login 
-inputLoginCatalogo.send_keys('')
+inputLoginCatalogo.send_keys(43876778808)
 time.sleep(0.5)
 
 #clique continuar
@@ -45,7 +45,7 @@ time.sleep(1)
 inputSenhaCatalogo = navegador.find_element_by_xpath('/html/body/app-root/ion-app/ion-router-outlet/app-store/ion-router-outlet/app-auth/ion-router-outlet/user-auth/ion-content/app-content-wrapper/div/div/form/ion-item[2]/ion-input/input')
 time.sleep(0.1)
 #Escreve o senha 
-inputSenhaCatalogo.send_keys('')
+inputSenhaCatalogo.send_keys('02052000')
 time.sleep(0.5)
 
 #clique continuar: Acessa o catalogo completo (Login efetuado)
@@ -55,6 +55,7 @@ navegador.find_element_by_xpath('//*[@id="main-content"]/app-auth/ion-router-out
 dados_produtos = []
 format_xpath = '//*[@id="main-content"]/app-catalog/ion-content/app-content-wrapper/div/div/div/app-catalog-products/div/div[{numero}]/div/div[1]/img'
 format_xpath_color = '//*[@id="main-content"]/app-catalog-product-view/ion-content/app-content-wrapper/div/div/div/div/div[2]/div[3]/div/cart-product-grade/div/table/tbody/tr[{numero}]/td[1]'
+
 time.sleep(7)
 
 #Loop para navegar entre os produtos e pegar informações para as colunas. Range defini a quantidade de produtos a serem selecionados
