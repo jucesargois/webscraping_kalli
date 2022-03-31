@@ -57,8 +57,8 @@ format_xpath = '//*[@id="main-content"]/app-catalog/ion-content/app-content-wrap
 format_xpath_color = '//*[@id="main-content"]/app-catalog-product-view/ion-content/app-content-wrapper/div/div/div/div/div[2]/div[3]/div/cart-product-grade/div/table/tbody/tr[{numero}]/td[1]'
 time.sleep(7)
 
-
-for i in range(2):#Range defini a quantidade de produtos, para pegar as informações.
+#Loop para navegar entre os produtos e pegar informações para as colunas. Range defini a quantidade de produtos a serem selecionados
+for i in range(2):
     
   
   i += 1
@@ -130,7 +130,7 @@ for i in range(2):#Range defini a quantidade de produtos, para pegar as informa�
         df_M = df.iloc[:,2]
         df_G = df.iloc[:,3]
         df_GG = df.iloc[:,4]
-        #remove nome da coluna e remove index =
+        
   except Exception:
     pass    
       
