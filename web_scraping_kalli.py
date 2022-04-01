@@ -145,7 +145,7 @@ for i in range(2):
   except Exception:
     pass
 
-  
+  ''
   
 #Inseri colunas e salva dados no csv
 dados = pd.DataFrame(dados_produtos ,columns=['Codigo','Preço','Descrição','Composição','Link','Cor','P','M','G','GG'])
