@@ -1970,3 +1970,19 @@ JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeE
 1650771685944	Marionette	INFO	Stopped listening on port 52139
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651347989649	geckodriver	INFO	Listening on 127.0.0.1:54211
+1651347992703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54212" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile8ZuLCU"
+1651347993388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile8ZuLCU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54212/devtools/browser/2e241c1c-bbe1-4262-b129-5e42f340e7ec
+1651347995965	Marionette	INFO	Listening on port 54219
+1651347996440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651348047607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
