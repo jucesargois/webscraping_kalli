@@ -138,3 +138,1835 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:57767/devtools/browser/e89515c5-23e3-4b86-b6e7-873f96315fdc
 1647468778076	Marionette	INFO	Listening on port 57772
 1647468778343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648875332558	geckodriver	INFO	Listening on 127.0.0.1:61179
+1648875335629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61180" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileF1r2u9"
+1648875336119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileF1r2u9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61180/devtools/browser/1ca2a734-46a8-4f87-a5da-8c1025b694de
+1648875338198	Marionette	INFO	Listening on port 61187
+1648875338297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_StopIMEStateManagement) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+1648875354523	Marionette	INFO	Stopped listening on port 61187
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Parent 6648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+[Parent 6648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648875613862	geckodriver	INFO	Listening on 127.0.0.1:58411
+1648875616881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58412" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileowxH44"
+1648875617353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileowxH44\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58412/devtools/browser/33f75bb6-ea0d-42f8-825c-7dd1c918da15
+1648875619353	Marionette	INFO	Listening on port 58418
+1648875619543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648876475491	Marionette	INFO	Stopped listening on port 58418
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 31104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+lhost:58513/devtools/browser/11fc33ac-8494-44d0-9403-61d85750cc9e
+1648875693431	Marionette	INFO	Listening on port 58518
+1648875693503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648876475090	Marionette	INFO	Stopped listening on port 58518
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 18688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+FoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileGLkHFe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58600/devtools/browser/bb648224-de0c-4f15-afbc-a5b239e55986
+1648875767658	Marionette	INFO	Listening on port 58606
+1648875768107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648876475085	Marionette	INFO	Stopped listening on port 58606
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileKhJlO6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58704/devtools/browser/e9e3e341-1b11-4099-bdcb-c4e18d85f68f
+1648875894056	Marionette	INFO	Listening on port 58709
+1648875894519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648876475450	Marionette	INFO	Stopped listening on port 58709
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\juces\AppData\Local\Temp\rust_mozprofileKhJlO6\protections.sqlite
+st_mozprofilehSqqoV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57650/devtools/browser/dc7d110d-ff90-4f63-b6ca-2037409f9b77
+1648875990348	Marionette	INFO	Listening on port 57655
+1648875990439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648876000147	Marionette	INFO	Stopped listening on port 57655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648876117880	geckodriver	INFO	Listening on 127.0.0.1:59971
+1648876120942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59972" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilePzOq6y"
+1648876121361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilePzOq6y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59972/devtools/browser/9e9e5cc1-2c1f-4ee5-a902-1d6514d5e90c
+1648876123447	Marionette	INFO	Listening on port 59978
+1648876123596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648876474797	Marionette	INFO	Stopped listening on port 59978
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\juces\AppData\Local\Temp\rust_mozprofilePzOq6y\protections.sqlite
+st_mozprofileuYQrnC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60050/devtools/browser/893cb524-4801-49a3-97cd-b508b884a449
+1648876152572	Marionette	INFO	Listening on port 60058
+1648876152966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648876475836	Marionette	INFO	Stopped listening on port 60058
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\juces\AppData\Local\Temp\rust_mozprofileuYQrnC\protections.sqlite
+39d-43c5-9784-ac6b69b60071
+1648876221262	Marionette	INFO	Listening on port 60158
+1648876221730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648876474833	Marionette	INFO	Stopped listening on port 60158
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilegY4cA4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60310/devtools/browser/20f58fee-552c-431e-b5a8-efe8f05c29d2
+1648876363587	Marionette	INFO	Listening on port 60317
+1648876363634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648876474353	Marionette	INFO	Stopped listening on port 60317
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileWBOqts\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60393/devtools/browser/a60a5cbc-341b-49bb-84fe-14ec647e7b77
+1648876410663	Marionette	INFO	Listening on port 60398
+1648876410691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648876473988	Marionette	INFO	Stopped listening on port 60398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilespwlxF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54512/devtools/browser/4cb0198c-947b-4d0c-8a68-8b6235f4b84a
+1648876459604	Marionette	INFO	Listening on port 54521
+1648876459844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648876474499	Marionette	INFO	Stopped listening on port 54521
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648876820620	geckodriver	INFO	Listening on 127.0.0.1:65242
+1648876823642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65243" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilezeCD4G"
+1648876824036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilezeCD4G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65243/devtools/browser/4844d215-38a7-4cc9-9c29-f9cbd9b870e2
+1648876826093	Marionette	INFO	Listening on port 65252
+1648876826314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648876845421	geckodriver	INFO	Listening on 127.0.0.1:49656
+1648876848436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49657" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofiletGqdPp"
+1648876848716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofiletGqdPp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49657/devtools/browser/fb027a72-fd8e-4b40-9cb4-0f92b0c9b85b
+1648876850446	Marionette	INFO	Listening on port 49663
+1648876850465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648876859062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1648876865949	geckodriver	INFO	Listening on 127.0.0.1:49735
+1648876868974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49736" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileqeoIwu"
+1648876869226	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileqeoIwu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49736/devtools/browser/1e00395f-f89a-48b9-bdf1-930eb9b04e71
+1648876871010	Marionette	INFO	Listening on port 49741
+1648876871105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648877012384	geckodriver	INFO	Listening on 127.0.0.1:50296
+1648877015434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50297" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile0Dvnk4"
+1648877015765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile0Dvnk4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50297/devtools/browser/a1e7f63f-b544-4f93-9880-8b78fc4fa3d9
+1648877017451	Marionette	INFO	Listening on port 50304
+1648877017489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648877064441	geckodriver	INFO	Listening on 127.0.0.1:50370
+1648877067494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50371" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileLWYtFY"
+*** You are running in headless mode.
+1648877067732	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileLWYtFY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50371/devtools/browser/825d41bd-166a-4ef9-8b72-125aefd5ee55
+1648877068557	Marionette	INFO	Listening on port 50388
+1648877069049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648877168415	geckodriver	INFO	Listening on 127.0.0.1:52837
+1648877171443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52838" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilerqYXlw"
+*** You are running in headless mode.
+1648877171779	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilerqYXlw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52838/devtools/browser/421d287d-4c73-4ebb-9951-de5b17912792
+1648877172670	Marionette	INFO	Listening on port 52843
+1648877172966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648877288625	geckodriver	INFO	Listening on 127.0.0.1:52948
+1648877291685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52949" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileRseeqU"
+*** You are running in headless mode.
+1648877292000	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileRseeqU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52949/devtools/browser/a9890978-7cff-4e50-99e8-008bf2b65f80
+1648877292785	Marionette	INFO	Listening on port 52956
+1648877293219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648878211887	geckodriver	INFO	Listening on 127.0.0.1:52561
+1648878222215	geckodriver	INFO	Listening on 127.0.0.1:52573
+1648878225281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52574" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofiled17d2F"
+*** You are running in headless mode.
+1648878225612	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofiled17d2F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52574/devtools/browser/af982fb6-db4b-49af-b656-e1394ba232df
+1648878226447	Marionette	INFO	Listening on port 52579
+1648878226825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648880558827	geckodriver	INFO	Listening on 127.0.0.1:63443
+1648880561893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63444" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileftonw9"
+*** You are running in headless mode.
+1648880562169	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileftonw9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63444/devtools/browser/6d893ec2-4cad-4a90-a6b3-5663fc0b079b
+1648880563212	Marionette	INFO	Listening on port 63452
+1648880563432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648880750867	geckodriver	INFO	Listening on 127.0.0.1:61614
+1648880753887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61615" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileMRwrN5"
+*** You are running in headless mode.
+1648880754215	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileMRwrN5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61615/devtools/browser/c8e927fb-9f41-49ce-bb02-4cc189283312
+1648880755107	Marionette	INFO	Listening on port 61620
+1648880755407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648881624394	geckodriver	INFO	Listening on 127.0.0.1:62802
+1648881627425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62803" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilev1XuGU"
+*** You are running in headless mode.
+1648881627792	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilev1XuGU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62803/devtools/browser/0f3ad014-9264-4740-99f9-8b6f2aa09c6f
+1648881628872	Marionette	INFO	Listening on port 62809
+1648881628967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648883581150	geckodriver	INFO	Listening on 127.0.0.1:63840
+1648883584208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63841" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileuucsye"
+*** You are running in headless mode.
+1648883584546	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileuucsye\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63841/devtools/browser/c589f20e-6fa7-48f6-8519-edb66f3f3c93
+1648883585380	Marionette	INFO	Listening on port 63848
+1648883585759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648883881646	geckodriver	INFO	Listening on 127.0.0.1:63977
+1648883884662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63978" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileNKQ110"
+*** You are running in headless mode.
+1648883884933	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileNKQ110\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63978/devtools/browser/a5e16ae3-003e-4ee1-98b8-46508517ab37
+1648883885805	Marionette	INFO	Listening on port 63984
+1648883886197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648920471322	geckodriver	INFO	Listening on 127.0.0.1:51551
+1648920474381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51552" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileyOPyzO"
+*** You are running in headless mode.
+1648920474861	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileyOPyzO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51552/devtools/browser/882b1e8b-d71f-4e63-865f-9590f1b2d6f8
+1648920475848	Marionette	INFO	Listening on port 51558
+1648920475933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648920549383	geckodriver	INFO	Listening on 127.0.0.1:51641
+1648920552428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51642" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilecHsGVJ"
+*** You are running in headless mode.
+1648920552697	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilecHsGVJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51642/devtools/browser/2e9c6b39-9cea-4ea6-8569-6e3d0abcb4e1
+1648920553582	Marionette	INFO	Listening on port 51648
+1648920553977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648920612495	geckodriver	INFO	Listening on 127.0.0.1:51726
+1648920615570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51727" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile2IY2m3"
+*** You are running in headless mode.
+1648920615880	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile2IY2m3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51727/devtools/browser/6de34e20-14d6-488a-b7c2-578a382c5130
+1648920616796	Marionette	INFO	Listening on port 51735
+1648920617121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648925011280	geckodriver	INFO	Listening on 127.0.0.1:62663
+1648925014297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62664" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileLICG5U"
+*** You are running in headless mode.
+1648925014664	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileLICG5U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62664/devtools/browser/4c297d50-b5d7-4986-be8e-c24ff7bb487e
+1648925015611	Marionette	INFO	Listening on port 62669
+1648925015814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648929372503	geckodriver	INFO	Listening on 127.0.0.1:50765
+1648929375550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50766" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileCj55F1"
+*** You are running in headless mode.
+1648929375869	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileCj55F1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50766/devtools/browser/7357d6e1-d1d5-4f19-be5b-83f92c2bcc68
+1648929376813	Marionette	INFO	Listening on port 50772
+1648929377072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648931021761	geckodriver	INFO	Listening on 127.0.0.1:51162
+1648931024780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51163" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileKdyL0M"
+*** You are running in headless mode.
+1648931025118	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileKdyL0M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51163/devtools/browser/a0c370a4-a93a-406a-ba21-9d1281022328
+1648931025965	Marionette	INFO	Listening on port 51169
+1648931026296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648931229140	geckodriver	INFO	Listening on 127.0.0.1:51308
+1648931232176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51309" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYsrnbd"
+1648931232520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYsrnbd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51309/devtools/browser/c7298198-f2fc-4965-be14-684729d83bc2
+1648931234608	Marionette	INFO	Listening on port 51314
+1648931234829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648931384788	geckodriver	INFO	Listening on 127.0.0.1:54483
+1648931387849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54484" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileKCfuwu"
+*** You are running in headless mode.
+1648931388158	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileKCfuwu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54484/devtools/browser/d705a83d-4ee4-4466-8038-8d742d552f2b
+1648931389148	Marionette	INFO	Listening on port 54493
+1648931389385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648931628624	geckodriver	INFO	Listening on 127.0.0.1:54699
+1648931631643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54700" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileh705t2"
+1648931631994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileh705t2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54700/devtools/browser/a47539b7-5dd2-4234-aadf-823b8992aa05
+1648931633777	Marionette	INFO	Listening on port 54706
+1648931633812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648935980078	geckodriver	INFO	Listening on 127.0.0.1:64565
+1648935983150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64566" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile2Eqiv8"
+1648935983504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile2Eqiv8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64566/devtools/browser/0a233617-2cc9-4c75-8e7c-bb6e5e520f14
+1648935985217	Marionette	INFO	Listening on port 64572
+1648935985306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648936065347	geckodriver	INFO	Listening on 127.0.0.1:64712
+1648936068395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64713" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileiSRpDs"
+*** You are running in headless mode.
+1648936068763	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileiSRpDs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64713/devtools/browser/de98acbc-a0cd-49d3-a0dc-e69990f38f15
+1648936069642	Marionette	INFO	Listening on port 64720
+1648936069926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648936282692	geckodriver	INFO	Listening on 127.0.0.1:64948
+1648936285742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64949" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilemAL6Q0"
+1648936286070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilemAL6Q0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64949/devtools/browser/ba8b71e7-a0a9-49ec-83fb-1fdbf4c4327d
+1648936287663	Marionette	INFO	Listening on port 64958
+1648936287787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648936408048	geckodriver	INFO	Listening on 127.0.0.1:59566
+1648936411097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59567" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileZ8NCVP"
+1648936411382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileZ8NCVP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59567/devtools/browser/0d1d1963-57d6-4a53-b689-b48169756cbc
+1648936413138	Marionette	INFO	Listening on port 59573
+1648936413283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648940109687	geckodriver	INFO	Listening on 127.0.0.1:49922
+1648940112705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49923" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile1so1ql"
+*** You are running in headless mode.
+1648940113033	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile1so1ql\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49923/devtools/browser/575f2767-7342-49eb-abbb-49a3265c66ee
+1648940113968	Marionette	INFO	Listening on port 49930
+1648940114238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648945618684	geckodriver	INFO	Listening on 127.0.0.1:52096
+1648945621742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52097" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile0Erhtt"
+*** You are running in headless mode.
+1648945622111	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile0Erhtt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52097/devtools/browser/37bade56-e671-4816-8093-1b68ec4df652
+1648945622968	Marionette	INFO	Listening on port 52103
+1648945623290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\juces\AppData\Local\Temp\rust_mozprofile0Erhtt\bookmarkbackups\bookmarks-2022-04-02_13_aVWO6d8PQrdiUrIjH5GDjw==.jsonlz4) because it does not exist
+-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileOSmCSE"
+1648945660531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileOSmCSE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52188/devtools/browser/4eed5c49-eee2-4c28-9ec3-c8e743e76518
+1648945662324	Marionette	INFO	Listening on port 52196
+1648945662420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649004195802	Marionette	INFO	Stopped listening on port 52196
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649004926309	geckodriver	INFO	Listening on 127.0.0.1:57459
+1649004929381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57460" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileFr9y3I"
+*** You are running in headless mode.
+1649004929942	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileFr9y3I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57460/devtools/browser/060e3ea4-f97b-47d9-8595-4300c69112a6
+1649004931204	Marionette	INFO	Listening on port 57466
+1649004931444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649004992985	geckodriver	INFO	Listening on 127.0.0.1:57579
+1649004996022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57580" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile2ykcnY"
+*** You are running in headless mode.
+1649004996385	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile2ykcnY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57580/devtools/browser/f1af836f-c908-48e7-9c23-b548c48b3abc
+1649004997765	Marionette	INFO	Listening on port 57587
+1649004998066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649005096579	geckodriver	INFO	Listening on 127.0.0.1:57778
+1649005099609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57779" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile3BvN9H"
+*** You are running in headless mode.
+1649005100135	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile3BvN9H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57779/devtools/browser/12f37793-7a88-47d8-b092-105e8aac6b39
+1649005101493	Marionette	INFO	Listening on port 57786
+1649005101672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649005702774	geckodriver	INFO	Listening on 127.0.0.1:58364
+1649005705820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58365" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileR9RAVi"
+*** You are running in headless mode.
+1649005706524	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileR9RAVi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58365/devtools/browser/282ed2d6-b306-4b73-9310-989b7a508ed7
+1649005707899	Marionette	INFO	Listening on port 58371
+1649005707979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649608025555	geckodriver	INFO	Listening on 127.0.0.1:51845
+1649608028582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51846" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileCKy0Pr"
+*** You are running in headless mode.
+1649608029109	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileCKy0Pr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51846/devtools/browser/f26458e8-ebcf-4c2e-8403-344a806c10af
+1649608030159	Marionette	INFO	Listening on port 51853
+1649608030663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+1649608071215	geckodriver	INFO	Listening on 127.0.0.1:51949
+1649608074257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51950" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilebaB8eh"
+1649608074680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilebaB8eh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51950/devtools/browser/e16ffac4-4b9d-4b9a-b61f-e3d6c981cb7b
+1649608077242	Marionette	INFO	Listening on port 51958
+1649608077432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649608099028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649621780596	Marionette	INFO	Stopped listening on port 51958
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649621799652	geckodriver	INFO	Listening on 127.0.0.1:57390
+1649621802670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57391" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileKTqmVW"
+1649621803284	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileKTqmVW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57391/devtools/browser/101fb41c-e836-454f-b26a-577495e7ef40
+1649621805280	Marionette	INFO	Listening on port 57398
+1649621805357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649621843306	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649621872133	Marionette	INFO	Stopped listening on port 57398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1649622164017	geckodriver	INFO	Listening on 127.0.0.1:60814
+1649622167057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60815" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYpkEdY"
+1649622167509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYpkEdY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60815/devtools/browser/01f823c1-11e8-45e1-a779-87252b5349e1
+1649622169525	Marionette	INFO	Listening on port 60821
+1649622169704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649622854899	Marionette	INFO	Stopped listening on port 60821
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649622909092	geckodriver	INFO	Listening on 127.0.0.1:54391
+1649622912114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54392" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilehKHEuG"
+*** You are running in headless mode.
+1649622912478	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilehKHEuG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54392/devtools/browser/93ad02a2-97c8-4b67-a7d8-77f40a456694
+1649622913341	Marionette	INFO	Listening on port 54398
+1649622913666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649623217465	geckodriver	INFO	Listening on 127.0.0.1:54591
+1649623220495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54592" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYgSBze"
+*** You are running in headless mode.
+1649623220890	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYgSBze\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54592/devtools/browser/b03a7843-88b6-4789-8931-1400b6e7025d
+1649623221815	Marionette	INFO	Listening on port 54597
+1649623222037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649623449801	geckodriver	INFO	Listening on 127.0.0.1:54732
+1649623452828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54733" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileeJakKQ"
+1649623453194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileeJakKQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54733/devtools/browser/bd6ee982-8386-40f8-b1ff-1e2f263505ef
+1649623455134	Marionette	INFO	Listening on port 54739
+1649623455487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649623562099	geckodriver	INFO	Listening on 127.0.0.1:54995
+1649623565117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54996" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYvz5qX"
+1649623565409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYvz5qX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54996/devtools/browser/bab27cdf-0c2a-4e05-8979-f991638d6326
+1649623567391	Marionette	INFO	Listening on port 55001
+1649623567784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649623624938	geckodriver	INFO	Listening on 127.0.0.1:55078
+1649623627957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55079" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilexyzX8O"
+1649623628269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilexyzX8O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55079/devtools/browser/9cf073f3-0a5c-46ff-befd-3c072a85fd69
+1649623630253	Marionette	INFO	Listening on port 55088
+1649623630606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649623713511	geckodriver	INFO	Listening on 127.0.0.1:55164
+1649623716538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55165" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileo1D19f"
+1649623716882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileo1D19f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55165/devtools/browser/a1bcaf44-6501-46be-9764-26faae889c81
+1649623718867	Marionette	INFO	Listening on port 55170
+1649623719196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649623872745	geckodriver	INFO	Listening on 127.0.0.1:55260
+1649623875763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55261" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilenclWEc"
+1649623876057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilenclWEc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55261/devtools/browser/644560b8-2ac7-4c93-bb5b-87f0f6a2bfef
+1649623877841	Marionette	INFO	Listening on port 55266
+1649623877922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649624178432	geckodriver	INFO	Listening on 127.0.0.1:55394
+1649624181466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55395" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileX83mMU"
+1649624181749	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileX83mMU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55395/devtools/browser/3b25677f-b804-485f-a39f-0cddb70b7be2
+1649624183525	Marionette	INFO	Listening on port 55401
+1649624183625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649624241137	geckodriver	INFO	Listening on 127.0.0.1:55472
+1649624244191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55473" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileiNRLqg"
+1649624244476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileiNRLqg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55473/devtools/browser/19698e90-aa66-4eae-a53b-11cc03b3d036
+1649624246388	Marionette	INFO	Listening on port 55481
+1649624246841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649624319421	geckodriver	INFO	Listening on 127.0.0.1:55556
+1649624322460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55557" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileyG1hqc"
+1649624322800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileyG1hqc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55557/devtools/browser/cd792bd7-c41a-4a8e-a848-14eb97167f30
+1649624324667	Marionette	INFO	Listening on port 55562
+1649624325123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649624858068	geckodriver	INFO	Listening on 127.0.0.1:52316
+1649624861092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52317" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileaTO17o"
+1649624861377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileaTO17o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52317/devtools/browser/a797f7e3-5d0c-4c8f-8ea3-c20396af41a7
+1649624863309	Marionette	INFO	Listening on port 52322
+1649624863755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649624921209	geckodriver	INFO	Listening on 127.0.0.1:52401
+1649624924233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52402" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileOn686K"
+1649624924560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileOn686K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52402/devtools/browser/6f57872c-36a7-47c7-877c-eb4465a6abe3
+1649624926509	Marionette	INFO	Listening on port 52410
+1649624926902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649625020689	geckodriver	INFO	Listening on 127.0.0.1:52503
+1649625023716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52504" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileTQeBsC"
+1649625024077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileTQeBsC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52504/devtools/browser/b4376225-8955-4282-8f86-7906b4997dd4
+1649625026002	Marionette	INFO	Listening on port 52510
+1649625026392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649625113798	geckodriver	INFO	Listening on 127.0.0.1:60438
+1649625116847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60439" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileyyXo1Q"
+1649625117225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileyyXo1Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60439/devtools/browser/adc18e07-8c27-4740-a024-6ee7c4dbcb78
+1649625119154	Marionette	INFO	Listening on port 60444
+1649625119512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649626889439	Marionette	INFO	Stopped listening on port 60444
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileTWN0er\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56549/devtools/browser/cd651c2a-0b26-4ab1-9d24-930f27827891
+1649626817242	Marionette	INFO	Listening on port 56554
+1649626817637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649626867483	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649626889333	Marionette	INFO	Stopped listening on port 56551649626889842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56629" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileiP0S4y"
+1649626890313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileiP0S4y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56629/devtools/browser/f4ae828b-1e92-4403-a9a0-7d4c7ff75c65
+1649626892644	Marionette	INFO	Listening on port 56636
+1649626893013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649637278435	Marionette	INFO	Stopped listening on port 56636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650214046103	geckodriver	INFO	Listening on 127.0.0.1:63954
+1650214049138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63955" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileZyQB8n"
+1650214049829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileZyQB8n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63955/devtools/browser/487dad9b-e4b7-4910-995b-4a8125e4831b
+1650214053222	Marionette	INFO	Listening on port 63962
+1650214053401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650214183646	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650214286808	geckodriver	INFO	Listening on 127.0.0.1:53815
+1650214289842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53816" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileSVVedD"
+1650214290334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileSVVedD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53816/devtools/browser/60c0b710-41ac-4885-a0b1-47a4b844130a
+1650214292700	Marionette	INFO	Listening on port 53822
+1650214293011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650214301351	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650214305660	Marionette	INFO	Stopped listening on port 53822
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650214313075	geckodriver	INFO	Listening on 127.0.0.1:53901
+1650214316098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53902" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilemMrO1o"
+1650214316519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilemMrO1o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53902/devtools/browser/a5ca91d0-60e2-4a2a-a47c-5110b4489f33
+1650214319066	Marionette	INFO	Listening on port 53911
+1650214319298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650217340882	geckodriver	INFO	Listening on 127.0.0.1:53996
+1650217343925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53997" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileJPpBLL"
+1650217344375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileJPpBLL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53997/devtools/browser/63cc4886-271f-4317-9673-3781ed6ecb9c
+1650217346530	Marionette	INFO	Listening on port 54002
+1650217346605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650302108405	geckodriver	INFO	Listening on 127.0.0.1:52476
+1650302111438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52477" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileuM0EYn"
+1650302111790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileuM0EYn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52477/devtools/browser/98844324-23d0-448a-b37f-45a8af935c10
+1650302113537	Marionette	INFO	Listening on port 52482
+1650302113605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\juces\AppData\Local\Temp\rust_mozprofileuM0EYn\bookmarkbackups\bookmarks-2022-04-18.jsonlz4) because it does not exist
+1650310595377	Marionette	INFO	Stopped listening on port 52482
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650470972728	geckodriver	INFO	Listening on 127.0.0.1:49703
+1650470975770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49704" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile3WzcMb"
+1650470976260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile3WzcMb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49704/devtools/browser/fbe484db-b01e-457a-a810-d1db86c3d0b3
+1650470978107	Marionette	INFO	Listening on port 49709
+1650470978443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650471186302	Marionette	INFO	Stopped listening on port 49709
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ools listening on ws://localhost:49798/devtools/browser/f8a9df32-8e02-4121-be25-429c7d156ff0
+1650471094500	Marionette	INFO	Listening on port 49804
+1650471094780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650471186298	Marionette	INFO	Stopped listening on port 49804
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\juces\AppData\Local\Temp\rust_mozprofileHpnLD1\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+ session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650471186287	Marionette	INFO	Stopped listening on port 49875
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650471195854	geckodriver	INFO	Listening on 127.0.0.1:49956
+1650471198915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49957" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileaJByrv"
+1650471199247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileaJByrv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49957/devtools/browser/68b1f036-51d2-40ed-aa36-056dd4737222
+1650471201081	Marionette	INFO	Listening on port 49963
+1650471201571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650471339299	geckodriver	INFO	Listening on 127.0.0.1:50086
+1650471342367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50087" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileGPGyL1"
+1650471342662	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileGPGyL1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50087/devtools/browser/02a55a0b-1f57-441d-9929-660598013276
+1650471344401	Marionette	INFO	Listening on port 50092
+1650471344430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650471638769	geckodriver	INFO	Listening on 127.0.0.1:50246
+1650471641822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50247" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYNfTu0"
+1650471642087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileYNfTu0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50247/devtools/browser/804b3acf-28c9-4a50-9993-322610af56e5
+1650471643818	Marionette	INFO	Listening on port 50252
+1650471643872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650471828305	geckodriver	INFO	Listening on 127.0.0.1:60837
+1650471831343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60838" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilefGss2l"
+1650471831671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilefGss2l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60838/devtools/browser/62c3591c-253d-4e90-80d6-6482ec7d2cfd
+1650471833335	Marionette	INFO	Listening on port 60843
+1650471833390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650471958004	geckodriver	INFO	Listening on 127.0.0.1:53947
+1650471961029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53948" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilebhokGn"
+1650471961362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilebhokGn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53948/devtools/browser/e4ba9922-1d6c-465b-8f80-605dc1d5a3f7
+1650471963186	Marionette	INFO	Listening on port 53954
+1650471963206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650472103229	geckodriver	INFO	Listening on 127.0.0.1:54094
+1650472106263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54095" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileIEbWCI"
+1650472106617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileIEbWCI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54095/devtools/browser/5d6f3fd7-40af-459c-ab88-e3b63c581bcb
+1650472108473	Marionette	INFO	Listening on port 54100
+1650472108930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650473840805	geckodriver	INFO	Listening on 127.0.0.1:61240
+1650473843836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61241" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileAZmEYz"
+1650473844180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileAZmEYz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61241/devtools/browser/682a5898-aa63-4686-baeb-a23f8a8b95b1
+1650473846016	Marionette	INFO	Listening on port 61247
+1650473846507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650474240812	Marionette	INFO	Stopped listening on port 61247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileMjKszU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61321/devtools/browser/682325a5-d518-4dd2-9bce-514b4aa3c756
+1650473918232	Marionette	INFO	Listening on port 61326
+1650473918281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650474240812	Marionette	INFO	Stopped listening on port 61326
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ools listening on ws://localhost:61449/devtools/browser/2c876351-a919-4f3e-86bf-2667511ce693
+1650474108194	Marionette	INFO	Listening on port 61456
+1650474108296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650474240820	Marionette	INFO	Stopped listening on port 61456
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650474289492	geckodriver	INFO	Listening on 127.0.0.1:61553
+1650474292519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61554" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileaEEC95"
+1650474292863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileaEEC95\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61554/devtools/browser/cb302108-1804-4cac-a01d-37eb72c0c764
+1650474294582	Marionette	INFO	Listening on port 61559
+1650474294665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650474636712	Marionette	INFO	Stopped listening on port 61559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileP8Iul2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61683/devtools/browser/a1a584fc-3c9d-4418-baaf-e0485528a8d0
+1650474452210	Marionette	INFO	Listening on port 61688
+1650474452252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650474636712	Marionette	INFO	Stopped listening on port 61688
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileO22kFw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61792/devtools/browser/911d2f7b-5cba-4182-b1cf-b434b2d0ef37
+1650474553953	Marionette	INFO	Listening on port 61798
+1650474554077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650474633093	Marionette	INFO	Stopped listening on port 61798
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650475168973	geckodriver	INFO	Listening on 127.0.0.1:62006
+1650475171999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62007" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileHSCBQu"
+1650475172326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileHSCBQu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62007/devtools/browser/2c394f16-3c16-4415-af5b-e1d6da94dacd
+1650475174006	Marionette	INFO	Listening on port 62013
+1650475174045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650475521766	Marionette	INFO	Stopped listening on port 62013
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ools listening on ws://localhost:62120/devtools/browser/18b69a8f-e484-46ed-a5e7-bc7b2c5bb6d3
+1650475261755	Marionette	INFO	Listening on port 62125
+1650475261861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650475521766	Marionette	INFO	Stopped listening on port 62125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileFHIOL8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63541/devtools/browser/c5e66dac-d088-4d65-9172-4407ed61fc69
+1650475439957	Marionette	INFO	Listening on port 63546
+1650475440291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650475518869	Marionette	INFO	Stopped listening on port 63546
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650475532024	geckodriver	INFO	Listening on 127.0.0.1:63648
+1650475535055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63649" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile2yBy8W"
+1650475535386	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile2yBy8W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63649/devtools/browser/e1dd3b53-8c95-4f89-9bd2-9d2d4850924d
+1650475537128	Marionette	INFO	Listening on port 63654
+1650475537207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650475575617	Marionette	INFO	Stopped listening on port 63654
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650475590316	geckodriver	INFO	Listening on 127.0.0.1:63732
+1650475593344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63733" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileGYsbYx"
+1650475593611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileGYsbYx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63733/devtools/browser/e0cddc5b-d8cb-462c-ace6-8e537493603a
+1650475595434	Marionette	INFO	Listening on port 63739
+1650475595497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650476588163	Marionette	INFO	Stopped listening on port 63739
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileZos7Ad\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63842/devtools/browser/f1d9c052-0c63-470d-b706-bad6a541f852
+1650475734319	Marionette	INFO	Listening on port 63847
+1650475734785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650475820530	Marionette	INFO	Stopped listening on port 63847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650475845980	geckodriver	INFO	Listening on 127.0.0.1:58105
+1650475848993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58106" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileDj7wvy"
+1650475849325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileDj7wvy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58106/devtools/browser/349c88d6-1474-4323-8948-029945b1f276
+1650475851064	Marionette	INFO	Listening on port 58111
+1650475851146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650476588184	Marionette	INFO	Stopped listening on port 58111
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+/browser/9bf89dd0-c9f7-4ece-86c0-f9615f522cba
+1650476386336	Marionette	INFO	Listening on port 58316
+1650476386812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650476588113	Marionette	INFO	Stopped listening on port 58316
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofile7qALsW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58418/devtools/browser/92360848-15ab-4d3b-9528-722a79eca08d
+1650476511334	Marionette	INFO	Listening on port 58423
+1650476511388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650476588068	Marionette	INFO	Stopped listening on port 58423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1650476627124	geckodriver	INFO	Listening on 127.0.0.1:63797
+1650476630157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63798" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilef9crhZ"
+1650476630578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilef9crhZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63798/devtools/browser/d1bad2e2-dd51-4e54-8b18-710506092fc2
+1650476632917	Marionette	INFO	Listening on port 63803
+1650476633327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650476740807	geckodriver	INFO	Listening on 127.0.0.1:63904
+1650476743844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63905" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileHyomJh"
+1650476744189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileHyomJh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63905/devtools/browser/07d3b159-f297-42a2-826c-20dfffa0b063
+1650476746456	Marionette	INFO	Listening on port 63910
+1650476746505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650476861841	geckodriver	INFO	Listening on 127.0.0.1:64009
+1650476864878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64010" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileOODKK4"
+1650476865270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileOODKK4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64010/devtools/browser/26733730-6a2a-40d3-b04e-5997ae94680f
+1650476867528	Marionette	INFO	Listening on port 64016
+1650476867561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650477168582	Marionette	INFO	Stopped listening on port 64016
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650477230300	geckodriver	INFO	Listening on 127.0.0.1:64191
+1650477233331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64192" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilej15Flv"
+1650477233741	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilej15Flv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64192/devtools/browser/9024aab7-4c48-4b40-8f04-7894c84cba88
+1650477235807	Marionette	INFO	Listening on port 64198
+1650477235982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650477446680	geckodriver	INFO	Listening on 127.0.0.1:64387
+1650477449724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64388" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilefs8QcS"
+1650477450086	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilefs8QcS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64388/devtools/browser/6879a9e9-cdf2-4cce-b9dc-e9351a566ae9
+1650477452227	Marionette	INFO	Listening on port 64394
+1650477452390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650477546567	geckodriver	INFO	Listening on 127.0.0.1:64496
+1650477549613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64497" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilexGdCQL"
+1650477550020	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilexGdCQL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64497/devtools/browser/d01d9ee3-9c17-4f01-942d-8c7f4329267a
+1650477552397	Marionette	INFO	Listening on port 64504
+1650477552765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650477610195	geckodriver	INFO	Listening on 127.0.0.1:64576
+1650477613198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64577" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileUBqFMR"
+1650477613588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileUBqFMR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64577/devtools/browser/c8aca63a-c7f2-4e88-beb0-8d2a54af696b
+1650477615905	Marionette	INFO	Listening on port 64584
+1650477616362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650477754222	geckodriver	INFO	Listening on 127.0.0.1:64697
+1650477757236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64698" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilehZIcLr"
+1650477757647	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilehZIcLr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64698/devtools/browser/6ca44ce3-8827-48ff-8946-a94051fac434
+1650477760027	Marionette	INFO	Listening on port 64704
+1650477760426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650478053267	geckodriver	INFO	Listening on 127.0.0.1:64884
+1650478056299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64885" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileoAkQmf"
+1650478056657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileoAkQmf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64885/devtools/browser/e281c428-046c-47e4-b58d-1c4f36a0696a
+1650478058888	Marionette	INFO	Listening on port 64890
+1650478058964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650478098314	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650478152562	geckodriver	INFO	Listening on 127.0.0.1:64984
+1650478155603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64985" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilecOa35K"
+1650478155938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilecOa35K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64985/devtools/browser/4977de34-7f43-4493-acf5-c6062e83b518
+1650478158045	Marionette	INFO	Listening on port 64990
+1650478158270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650478342314	geckodriver	INFO	Listening on 127.0.0.1:65078
+1650478345342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65079" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileTY8cR4"
+1650478345683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileTY8cR4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65079/devtools/browser/b64e43b5-fbfd-483b-895a-3353133c4164
+1650478347791	Marionette	INFO	Listening on port 65084
+1650478348001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650478975447	geckodriver	INFO	Listening on 127.0.0.1:60703
+1650478978494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60704" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilehYsyIu"
+1650478979026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofilehYsyIu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60704/devtools/browser/4bb0a971-b034-43f6-ba8b-443d687aec95
+1650478981409	Marionette	INFO	Listening on port 60709
+1650478981689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650479059429	Marionette	INFO	Stopped listening on port 60709
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650764488743	geckodriver	INFO	Listening on 127.0.0.1:52131
+1650764491812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52132" "-no-remote" "-profile" "C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileXIjyoL"
+1650764492339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\juces\\AppData\\Local\\Temp\\rust_mozprofileXIjyoL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52132/devtools/browser/0cf9b309-c436-4b99-9674-1277714a7dc9
+1650764494257	Marionette	INFO	Listening on port 52139
+1650764494480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://v.vesti.mobi"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650771685944	Marionette	INFO	Stopped listening on port 52139
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

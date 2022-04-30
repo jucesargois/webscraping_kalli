@@ -1,4 +1,5 @@
 from operator import length_hint
+from sqlite3 import Row
 from matplotlib.backend_bases import LocationEvent
 import requests
 from bs4 import BeautifulSoup
@@ -25,7 +26,7 @@ inputLoginCatalogo = navegador.find_element_by_class_name('native-input.sc-ion-i
 time.sleep(0.1)
 
 #Escreve o login 
-inputLoginCatalogo.send_keys('')
+inputLoginCatalogo.send_keys(43876778808)
 time.sleep(0.5)
 
 #clique continuar
@@ -40,7 +41,7 @@ time.sleep(1)
 inputSenhaCatalogo = navegador.find_element_by_xpath('/html/body/app-root/ion-app/ion-router-outlet/app-store/ion-router-outlet/app-auth/ion-router-outlet/user-auth/ion-content/app-content-wrapper/div/div/form/ion-item[2]/ion-input/input')
 time.sleep(0.1)
 #Escreve o senha 
-inputSenhaCatalogo.send_keys('')
+inputSenhaCatalogo.send_keys('02052000')
 time.sleep(0.5)
 
 #clique continuar: Acessa o catalogo completo (Login efetuado)
@@ -48,14 +49,13 @@ navegador.find_element_by_xpath('//*[@id="main-content"]/app-auth/ion-router-out
 
 
 dados_produtos = []
-dados_produtos_df = []
 format_xpath = '//*[@id="main-content"]/app-catalog/ion-content/app-content-wrapper/div/div/div/app-catalog-products/div/div[{numero}]/div/div[1]/img'
 format_xpath_color = '//*[@id="main-content"]/app-catalog-product-view/ion-content/app-content-wrapper/div/div/div/div/div[2]/div[3]/div/cart-product-grade/div/table/tbody/tr[{numero}]/td[1]'
 
 time.sleep(7)
 
-
-for i in range(1):#Range defini a quantidade de produtos, para pegar as informações.
+#Loop para navegar entre os produtos e pegar informações para as colunas. Range defini a quantidade de produtos a serem selecionados
+for i in range(1):
     
   
   i += 1
@@ -75,44 +75,21 @@ for i in range(1):#Range defini a quantidade de produtos, para pegar as informa�
 
 
   site = BeautifulSoup(page_content,'lxml')
-  produto_cod = site.find("div", attrs={'class' : 'code'})
-    
-  time.sleep(3)
-   # cor = navegador.find_element_by_xpath('//*[@id="ProductColorZoomComponent"]/div[2]/app-product-color-zoom/ion-content/div/div/ion-title')
-    
-    
-  table = site.find('table')
+  
 
-  headers = []
+  df = pd.read_html(page_content)[0]
+  df = df[['P','M','G','GG']]
+  # df_P = df[['P']]
+  # df_M = df[['M']]
+  # df_G = df[['G']]
+  # df_GG = df[['GG']]
+  
+  dados_produtos.append([df])
+  
+  navegador.back()
+dados = pd.DataFrame(dados_produtos)
 
-  for i in table.find_all('th'):
-        title = i.text.strip()
-        headers.append(title)
-        
-        df = pd.DataFrame(columns = headers)
-        
-  for row in table.find_all('tr')[1:]:
-        data = row.find_all('td')
-        row_data = [td.text.strip()for td in data]
-        length = len(df)
-        df.loc[length] = row_data
-        df_P = df.iloc[:,1]
-        df_M = df.iloc[:,2]
-        df_G = df.iloc[:,3]
-        df_GG = df.iloc[:,4]
-
-
-
-      
-
-
-print(df_P.to_string(index=False))
-print(df_M)
-print(df_G)
-print(df_GG)
-dados = pd.DataFrame(df_P)
-
-dados.to_csv("teste_concat_table_p.csv",index=False,encoding='utf-8')
+dados.to_excel("teste1_concat_table_p.xlsx",)
 
 
 
