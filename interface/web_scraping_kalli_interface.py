@@ -96,7 +96,7 @@ while True:
       format_xpath = '//*[@id="main-content"]/app-catalog/ion-content/app-content-wrapper/div/div/div/app-catalog-products/div/div[{numero}]/div/div[1]/img'
       format_xpath_color = '//*[@id="main-content"]/app-catalog-product-view/ion-content/app-content-wrapper/div/div/div/div/div[2]/div[3]/div/cart-product-grade/div/table/tbody/tr[{numero}]/td[1]'
       time.sleep(7)
-      #Loop para navegar entre os produtos e pegar informações para as colunas. Range defini a quantidade de produtos a serem selecionados
+      #Loop para navegar entre os produtos e pegar informações para as colunas.
       for i in range(qtdprodutosinfo):
         
        
@@ -108,8 +108,7 @@ while True:
         time.sleep(1)
         navegador.find_element_by_xpath(xpath).click()
         time.sleep(0.7)
-        # navegador.find_element_by_xpath('//*[@id="main-content"]/app-catalog-product-view/ion-content/app-content-wrapper/div/div/div/div')
-        # time.sleep(0.2)
+        
         
 
 
@@ -120,7 +119,7 @@ while True:
         
 
         
-        #Pegando informações para as colunas
+        
         try:
           print('\n','Carregando produto: {numero}',xpath)
           produto_preco = site.find("div", attrs={'class' : 'prices'})
@@ -151,9 +150,8 @@ while True:
                 pass
                 
                   
-
+          #tamanhos
           df = pd.read_html(page_content,header=0,flavor='bs4')[0]
-          #df = df[['P','M','G','GG']]
           df_P = df[['P']]
           df_M = df[['M']]
           df_G = df[['G']]
@@ -171,7 +169,7 @@ while True:
         
 
         try:
-          dados_produtos.append([produto_cod.text,produto_preco.text,produto_descricao.text,produto_composição.text,produto_foto,corlista,df_P.to_string(index=False),df_M.to_string(index=False),df_G.to_string(index=False),df_GG.to_string(index=False)])#inserir na versão final(produto_foto)
+          dados_produtos.append([produto_cod.text,produto_preco.text,produto_descricao.text,produto_composição.text,produto_foto,corlista,df_P.to_string(index=False),df_M.to_string(index=False),df_G.to_string(index=False),df_GG.to_string(index=False)])#itens linha
         except Exception:
           pass
           
@@ -179,7 +177,7 @@ while True:
         
       #Inseri colunas e salva dados no csv
       dados = pd.DataFrame(dados_produtos ,columns=['Codigo','Preço','Descrição','Composição','Link','Cor','P','M','G','GG'])
-      dados.to_excel("produtoskalli_kalli_teste_1904.xlsx")
+      dados.to_excel("produtoskalli_kalli_teste_1904.xlsx") #nome do arquivo que será salvo
       print(dados_produtos)
 
 
