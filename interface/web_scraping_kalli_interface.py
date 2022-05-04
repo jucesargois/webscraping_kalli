@@ -70,7 +70,7 @@ while True:
       time.sleep(0.1)
 
       #Escreve o login 
-      inputLoginCatalogo.send_keys(43876778808)
+      inputLoginCatalogo.send_keys(cpf)#sem aspas
       time.sleep(0.5)
 
       #clique continuar
@@ -85,7 +85,7 @@ while True:
       inputSenhaCatalogo = navegador.find_element_by_xpath('/html/body/app-root/ion-app/ion-router-outlet/app-store/ion-router-outlet/app-auth/ion-router-outlet/user-auth/ion-content/app-content-wrapper/div/div/form/ion-item[2]/ion-input/input')
       time.sleep(0.1)
       #Escreve o senha 
-      inputSenhaCatalogo.send_keys('02052000')
+      inputSenhaCatalogo.send_keys('pass')#com aspas
       time.sleep(0.5)
 
       #clique continuar: Acessa o catalogo completo (Login efetuado)
